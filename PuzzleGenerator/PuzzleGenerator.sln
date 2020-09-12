@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratorConsole", "PuzzleGenerator\GeneratorConsole.csproj", "{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generator", "ClassLibrary1\Generator.csproj", "{A02A6C8F-3AA9-407C-8B28-3831E56448F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Puzzles", "Puzzles", "{8735F5F7-B151-4F0C-9527-B6C81B5D2D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02A6C8F-3AA9-407C-8B28-3831E56448F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02A6C8F-3AA9-407C-8B28-3831E56448F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02A6C8F-3AA9-407C-8B28-3831E56448F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02A6C8F-3AA9-407C-8B28-3831E56448F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCF3CB1-990F-418B-AAC8-D5E4C7D944DA}
+	EndGlobalSection
+EndGlobal

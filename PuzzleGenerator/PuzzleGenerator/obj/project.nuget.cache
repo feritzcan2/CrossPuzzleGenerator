@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhlPdclrhV7MeqaC16eeCqEByJFHsiOngvmmgVbhIgLiK4Jnib0+cPogFEUzbVBbbJ2YfiRsJ4gL/Bga4TJQSg==",
+  "success": true,
+  "projectFilePath": "/Users/feritozcan/Desktop/wordbender/PuzzleGeneratorC#/PuzzleGenerator/PuzzleGenerator/GeneratorConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/feritozcan/.nuget/packages/microsoft.aspnet.webapi.client/4.0.20710/microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/microsoft.net.http/2.0.20710/microsoft.net.http.2.0.20710.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition/1.4.0/system.composition.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition.attributedmodel/1.4.0/system.composition.attributedmodel.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition.convention/1.4.0/system.composition.convention.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition.hosting/1.4.0/system.composition.hosting.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition.runtime/1.4.0/system.composition.runtime.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.composition.typedparts/1.4.0/system.composition.typedparts.1.4.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/system.json/4.7.0/system.json.4.7.0.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/webapicontrib.formatting.javascriptserializer/0.9.4/webapicontrib.formatting.javascriptserializer.0.9.4.nupkg.sha512",
+    "/Users/feritozcan/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Client 4.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Net.Http 2.0.20710' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebApiContrib.Formatting.JavaScriptSerializer 0.9.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebApiContrib.Formatting.JavaScriptSerializer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

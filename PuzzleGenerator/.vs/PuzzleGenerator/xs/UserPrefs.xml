@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{851A9B1B-4557-42F2-B7F3-5C88E9D63A11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PuzzleGenerator/Program.cs">
+    <Files>
+      <File FileName="PuzzleGenerator/Program.cs" Line="46" Column="127" />
+      <File FileName="ClassLibrary1/PuzzleCreator.cs" Line="189" Column="1" />
+      <File FileName="ClassLibrary1/EqualLengthWordSet.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary1/WordDataSet.cs" Line="1" Column="1" />
+      <File FileName="ClassLibrary1/Extensions.cs" Line="15" Column="1" />
+      <File FileName="PuzzleGenerator/allwords.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PuzzleGenerator" expanded="True">
+            <Node name="Generator" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="GeneratorConsole" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/feritozcan/Desktop/wordbender/PuzzleGeneratorC#/PuzzleGenerator/PuzzleGenerator/Program.cs" relfile="PuzzleGenerator/Program.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GeneratorConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
